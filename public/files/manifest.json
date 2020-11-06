@@ -1,0 +1,21 @@
+{
+    "name": "Shooter game",
+    "short_name": "Jueguito",
+    "icons": [{
+        "src": "icons/shooting-target128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },{
+      "src": "icons/shooting-target216.png",
+      "sizes": "256x256",
+      "type": "image/png"
+  },{
+      "src": "icons/shooting-target512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+  }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background-color": "#333333",
+    "theme_color": "#6200ee"
+}
